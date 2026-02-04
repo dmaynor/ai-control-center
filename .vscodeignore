@@ -1,0 +1,9 @@
+out/
+node_modules/
+.vscode/
+.git/
+.gitignore
+src/tests/
+tsconfig.json
+jest.config.js
+webpack.config.js 
